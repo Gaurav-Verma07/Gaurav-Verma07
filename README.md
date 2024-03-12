@@ -82,4 +82,4 @@
 
 ###
 
-Checkout my professional journey <a href="https://drive.google.com/file/d/10McS5nqg-Q5HuDjdTSv8VawiqmZ-LRV4/view?usp=sharing" > here</a>
+Checkout my professional background <a href="https://drive.google.com/file/d/10McS5nqg-Q5HuDjdTSv8VawiqmZ-LRV4/view?usp=sharing" > here</a>
