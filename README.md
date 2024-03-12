@@ -20,13 +20,9 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Gaurav Verma from INDIA<br><br>- 🔭 I’m working as Freelance developer <br>- 📚 I'm currently learning DSA<br>
+###About Me
+<br/>
+👨🏽‍💻 A passionate Full stack Developer.<br> 🎓I'm a 3rd year CSE student at IET Lucknow<br>🎨 Exploring Operating System Core<br>🌱 Currently learning Data Structures and Algorithms<br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -54,6 +50,7 @@
 </div>
 
 ###
+
 
 <h3 align="left">Version Control and IDEs</h3>
 
@@ -84,3 +81,5 @@
 </div>
 
 ###
+
+Checkout my professional journey <a href="https://drive.google.com/file/d/10McS5nqg-Q5HuDjdTSv8VawiqmZ-LRV4/view?usp=sharing" > here</a>
