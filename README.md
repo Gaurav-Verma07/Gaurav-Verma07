@@ -79,7 +79,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurav-Verma07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="165" alt="languages graph"  />
 </div>
-
 ###
-
-Checkout my professional background <a href="https://drive.google.com/file/d/10McS5nqg-Q5HuDjdTSv8VawiqmZ-LRV4/view?usp=sharing" > here</a>
+Checkout my professional background <a href="https://drive.google.com/file/d/10McS5nqg-Q5HuDjdTSv8VawiqmZ-LRV4/view?usp=sharing" > RESUME</a>, <a href="https://portfolio-web-sigma-swart.vercel.app/" > PORTFOLIO</a>
